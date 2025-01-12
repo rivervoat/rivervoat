@@ -18,3 +18,4 @@ Add documentation
 Fix typo in README
 Add new utility script
 Polish UI layout
+Fix typo in README
