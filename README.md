@@ -24,3 +24,4 @@ Fix typo in README
 Update configuration
 Add documentation
 Rewrite function Y
+Change theme color
