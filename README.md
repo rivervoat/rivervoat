@@ -25,3 +25,4 @@ Update configuration
 Add documentation
 Rewrite function Y
 Change theme color
+Change theme color
