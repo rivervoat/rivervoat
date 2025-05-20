@@ -22,3 +22,4 @@ Fix typo in README
 Improve performance
 Fix typo in README
 Update configuration
+Add documentation
